@@ -1,0 +1,23 @@
+.main {
+    font-size: 12px;
+}
+
+.center {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+/* Modified code from  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_intro*/
+td, th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+h2 {
+    color: #b19cd9;
+}
